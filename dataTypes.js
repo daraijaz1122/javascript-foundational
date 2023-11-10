@@ -29,7 +29,7 @@ const BigNumber = 123123123123123n;
 
 //eg non-primitive data types
 
-const Cars=['bmw','audi',"toyota",'tesla'];
+const Cars=['bmw','audi','toyota','tesla'];
 //console.log(Cars,typeof(Cars));//this will returnn object
 
 const MyDetails ={
